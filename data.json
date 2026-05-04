@@ -1,0 +1,90 @@
+{
+  "app_metadata": {
+    "title": "Daily Pulse",
+    "primary_color": "#2E7D32",
+    "enable_ads": true,
+    "ad_interval": 3
+  },
+  "content": [
+    {
+      "id": "1",
+      "type": "recipe",
+      "tag": "Trending",
+      "title": "Quick Yemeni Shakshuka",
+      "short_intro": "A perfect spicy breakfast in 10 minutes.",
+      "image_url": "https://images.unsplash.com/photo-1590412200988-a436970781fa?w=800",
+      "body_content": "Ingredients:\n- 4 large eggs\n- 4 ripe tomatoes, diced\n- 2 bell peppers, chopped\n- 1 onion, sliced\n- 3 cloves garlic, minced\n- 1 tsp cumin\n- 1 tsp paprika\n- 1/2 tsp cayenne pepper\n- Salt and pepper to taste\n- Fresh cilantro for garnish\n\nSteps:\n1. Heat olive oil in a large skillet over medium heat.\n2. Sauté onion and peppers until softened (about 5 minutes).\n3. Add garlic and spices, cook for 1 minute until fragrant.\n4. Add tomatoes and simmer for 10 minutes until sauce thickens.\n5. Create wells in the sauce and crack eggs into them.\n6. Cover and cook until eggs are set but yolks are still runny.\n7. Garnish with cilantro and serve with crusty bread.",
+      "is_featured": true
+    },
+    {
+      "id": "2",
+      "type": "article",
+      "tag": "Health",
+      "title": "Benefits of Local Almonds",
+      "short_intro": "Why daily nut intake boosts your brain power.",
+      "image_url": "https://images.unsplash.com/photo-1508029050422-bd5027c71d0b?w=800",
+      "body_content": "Almonds are packed with healthy fats, fiber, protein, magnesium, and vitamin E. Studies show that consuming almonds regularly can improve brain function and memory.\n\nKey Benefits:\n- Rich in antioxidants that protect brain cells\n- Vitamin E supports cognitive health\n- Healthy fats improve blood flow to the brain\n- Magnesium helps with nerve function\n- Lowers risk of cognitive decline\n\nRecommended daily intake: A handful (about 23 almonds) is considered a healthy serving size.",
+      "is_featured": false
+    },
+    {
+      "id": "3",
+      "type": "recipe",
+      "tag": "Breakfast",
+      "title": "Avocado Toast Supreme",
+      "short_intro": "The ultimate breakfast upgrade with creamy avocado.",
+      "image_url": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=800",
+      "body_content": "Ingredients:\n- 2 slices sourdough bread\n- 1 ripe avocado\n- 1 tbsp lemon juice\n- Salt and red pepper flakes\n- 2 poached eggs\n- Microgreens for garnish\n\nSteps:\n1. Toast the sourdough bread until golden.\n2. Mash avocado with lemon juice, salt, and pepper.\n3. Spread avocado mixture on toast.\n4. Top with poached eggs.\n5. Sprinkle with red pepper flakes.\n6. Add microgreens on top.\n7. Drizzle with olive oil and serve.",
+      "is_featured": false
+    },
+    {
+      "id": "4",
+      "type": "article",
+      "tag": "Lifestyle",
+      "title": "Morning Routines of Successful People",
+      "short_intro": "What successful people do in the first hour of their day.",
+      "image_url": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=800",
+      "body_content": "Research shows that morning routines can significantly impact productivity and well-being. Here's what most successful people do:\n\n1. Wake up early - Most successful people wake up before 6 AM\n2. Exercise - Even a 20-minute workout boosts energy\n3. Meditate - 10 minutes of mindfulness improves focus\n4. Plan their day - Review goals and priorities\n5. Eat a healthy breakfast - Fuel the body and brain\n\nKey Takeaway: Consistency is more important than perfection. Start small and build gradually.",
+      "is_featured": false
+    },
+    {
+      "id": "5",
+      "type": "recipe",
+      "tag": "Dinner",
+      "title": "Mediterranean Grilled Chicken",
+      "short_intro": "Juicy herb-marinated chicken with fresh flavors.",
+      "image_url": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=800",
+      "body_content": "Ingredients:\n- 4 chicken breasts\n- 1/4 cup olive oil\n- 3 tbsp lemon juice\n- 4 cloves garlic, minced\n- 2 tsp dried oregano\n- 1 tsp dried thyme\n- Salt and pepper\n- Fresh rosemary\n\nSteps:\n1. Combine olive oil, lemon juice, garlic, and herbs.\n2. Marinate chicken for at least 2 hours.\n3. Preheat grill to medium-high heat.\n4. Grill chicken for 6-7 minutes per side.\n5. Let rest for 5 minutes before serving.\n6. Serve with a side salad and tzatziki sauce.",
+      "is_featured": false
+    },
+    {
+      "id": "6",
+      "type": "article",
+      "tag": "Travel",
+      "title": "Hidden Gems of Southeast Asia",
+      "short_intro": "Discover off-the-beaten-path destinations.",
+      "image_url": "https://images.unsplash.com/photo-1528181304800-259b08848526?w=800",
+      "body_content": "Beyond the popular tourist destinations, Southeast Asia offers incredible hidden gems:\n\n1. Luang Prabang, Laos - Peaceful Buddhist temples and waterfalls\n2. Koh Lanta, Thailand - Quiet beaches and stunning sunsets\n3. Hoi An, Vietnam - Ancient trading port with lantern-lit streets\n4. Bagan, Myanmar - Thousands of ancient temple ruins\n5. Siquijor, Philippines - Mysterious island with beaches and waterfalls\n\nBest Time to Visit: November to February for dry, cool weather.",
+      "is_featured": false
+    },
+    {
+      "id": "7",
+      "type": "recipe",
+      "tag": "Dessert",
+      "title": "Classic Tiramisu",
+      "short_intro": "Italian coffee-flavored layered dessert.",
+      "image_url": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=800",
+      "body_content": "Ingredients:\n- 6 egg yolks\n- 3/4 cup sugar\n- 1 1/3 cups mascarpone cheese\n- 2 cups heavy cream\n- 2 cups strong espresso, cooled\n- 3 tbsp coffee liqueur\n- 24 ladyfinger cookies\n- Cocoa powder for dusting\n\nSteps:\n1. Whisk egg yolks and sugar until thick and pale.\n2. Add mascarpone and mix until smooth.\n3. Whip heavy cream and fold into mixture.\n4. Combine espresso and liqueur.\n5. Dip ladyfingers briefly in coffee mixture.\n6. Layer cookies and cream in dish.\n7. Repeat layers, ending with cream.\n8. Refrigerate 4+ hours, dust with cocoa before serving.",
+      "is_featured": false
+    },
+    {
+      "id": "8",
+      "type": "article",
+      "tag": "Tech",
+      "title": "The Future of AI in Mobile Apps 555",
+      "short_intro": "How artificial intelligence is reshaping mobile experiences.",
+      "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+      "body_content": "AI is revolutionizing mobile app development:\n\n1. Personalization - Apps now adapt to user behavior\n2. Voice assistants - Natural language processing improves\n3. Image recognition - Camera features powered by AI\n4. Predictive analytics - Apps anticipate user needs\n5. Automation - Routine tasks become hands-free\n\nWhat's Next:\n- On-device AI processing for privacy\n- Real-time language translation\n- AR/VR integration\n- Smarter notifications\n\nDevelopers should focus on integrating AI thoughtfully while maintaining user privacy.",
+      "is_featured": false
+    }
+  ]
+}
